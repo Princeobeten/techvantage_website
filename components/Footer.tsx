@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-10">
       <div className="container mx-auto px-4">
         <div className="flex flex-col lg:flex-row justify-between gap-10">
-          {/* Contact Us */}
+
           <div className="flex flex-col gap-4 text-center lg:text-left">
             <h2 className="text-xl font-bold">Contact Us</h2>
             <p className="text-gray-400">
@@ -21,7 +21,6 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Quick Links */}
           <div className="flex flex-col gap-4 text-center lg:text-left">
             <h2 className="text-xl font-bold">Quick Links</h2>
             <Link href="/" className="text-gray-400 hover:text-white">
@@ -41,7 +40,6 @@ const Footer = () => {
             </Link>
           </div>
 
-          {/* Follow Us */}
           <div className="flex flex-col gap-4 text-center lg:text-right">
             <h2 className="text-xl font-bold">Follow Us</h2>
             <div className="flex gap-4 justify-center lg:justify-end">
