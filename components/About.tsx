@@ -26,7 +26,7 @@ const About = () => {
                 Our Mission
               </h2>
               <p className="text-[#0d141c] text-base font-normal leading-normal text-justify">
-                Our mission is to create an inclusive and supportive environment where tech enthusiasts can learn, grow, and collaborate. We believe that by providing access to quality education and resources, we can help shape the future of technology.
+                Empowering students to embrace technology and innovation, bridging the gap between education and industry.
               </p>
             </div>
             <div className="flex flex-col gap-4">
@@ -41,7 +41,7 @@ const About = () => {
                 Our Vision
               </h2>
               <p className="text-[#0d141c] text-base font-normal leading-normal text-justify">
-                We envision a world where technology is accessible to everyone, and where every individual has the opportunity to contribute to and benefit from technological advancements. Our vision is to be a leading force in tech education and community building.
+                To create a vibrant community where professionals, enthusiasts, and students come together to share knowledge, inspire innovation, and drive technological advancements.
               </p>
             </div>
           </div>
@@ -53,45 +53,45 @@ const About = () => {
               <div className="relative flex items-start gap-4 lg:gap-10 lg:items-center lg:pr-8">
                 <div className="absolute left-[-11px] top-1 lg:top-auto lg:left-auto transform lg:translate-x-[-50%] h-6 w-6 rounded-full bg-[#0b6fda] border-4 border-white"></div>
                 <div className='px-5'>
-                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Define and Refine</h3>
+                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Inspire Tech Curiosity</h3>
                   <p className="text-[#0d141c] text-base font-normal leading-normal">
-                    Define target audience and create strategies to effectively engage with them.
+                    Foster interest in technology among students, encouraging them to explore its possibilities and applications.
                   </p>
                 </div>
               </div>
               <div className="relative flex items-start gap-4 lg:gap-10 lg:items-center lg:pr-8">
                 <div className="absolute left-[-11px] top-1 lg:top-auto lg:left-auto transform lg:translate-x-[-50%] h-6 w-6 rounded-full bg-[#0b6fda] border-4 border-white"></div>
                 <div className='px-5'>
-                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Build and Establish</h3>
+                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Bridge the Industry Gap</h3>
                   <p className="text-[#0d141c] text-base font-normal leading-normal">
-                    Assemble a team and partner with institutions for skill development.
+                    Connect students with professionals, providing insights into industry trends, challenges, and best practices.
                   </p>
                 </div>
               </div>
               <div className="relative flex items-start gap-4 lg:gap-10 lg:items-center lg:pr-8">
                 <div className="absolute left-[-11px] top-1 lg:top-auto lg:left-auto transform lg:translate-x-[-50%] h-6 w-6 rounded-full bg-[#0b6fda] border-4 border-white"></div>
                 <div className='px-5'>
-                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Launch and Promote</h3>
+                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Develop Skillsets</h3>
                   <p className="text-[#0d141c] text-base font-normal leading-normal">
-                    Launch events and marketing campaigns to promote skill development.
+                    Offer training, workshops, and mentorship programs to enhance students' technical skills and competencies.
                   </p>
                 </div>
               </div>
               <div className="relative flex items-start gap-4 lg:gap-10 lg:items-center lg:pr-8">
                 <div className="absolute left-[-11px] top-1 lg:top-auto lg:left-auto transform lg:translate-x-[-50%] h-6 w-6 rounded-full bg-[#0b6fda] border-4 border-white"></div>
                 <div className='px-5'>
-                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Expand and Engage</h3>
+                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Foster Community Building</h3>
                   <p className="text-[#0d141c] text-base font-normal leading-normal">
-                    Grow program offerings and community engagement through events and mentorship.
+                    Create a supportive network of like-minded individuals, promoting collaboration, innovation, and collective growth.
                   </p>
                 </div>
               </div>
               <div className="relative flex items-start gap-4 lg:gap-10 lg:items-center lg:pr-8">
                 <div className="absolute left-[-11px] top-1 lg:top-auto lg:left-auto transform lg:translate-x-[-50%] h-6 w-6 rounded-full bg-[#0b6fda] border-4 border-white"></div>
                 <div className='px-5'>
-                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Scale and Evaluate</h3>
+                  <h3 className="text-black text-xl font-bold leading-tight tracking-[-0.033em]">Promote Innovation</h3>
                   <p className="text-[#0d141c] text-base font-normal leading-normal">
-                    Assess impact and expand to more institutions and students.
+                    Encourage students to develop innovative solutions, providing resources and support to turn their ideas into reality.
                   </p>
                 </div>
               </div>
