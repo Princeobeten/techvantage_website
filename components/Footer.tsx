@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import Image from 'next/image';
+import { FaFacebook, FaInstagram } from 'react-icons';
+import { FaXTwitter } from "react-icons/fa6";
 
 const Footer = () => {
   return (
@@ -44,17 +45,14 @@ const Footer = () => {
           <div className="flex flex-col gap-4 text-center lg:text-right">
             <h2 className="text-xl font-bold">Follow Us</h2>
             <div className="flex gap-4 justify-center lg:justify-end">
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-                <Image src="/003-Facebook.png" alt="Facebook" width={32} height={32} />
+              <a href="https://www.facebook.com/share/57hm4zB85JuSA8bP/?mibextid=qi2Omg" target="_blank" rel="noopener noreferrer">
+                <FaFacebook width={32} height={32} className="bg-blue-600"/>
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
-                <Image src="/002-twitter.png" alt="Twitter" width={32} height={32} />
+              <a href="https://x.com/TechVantageHQ?t=rfeidCWhgyVgSEE5lOg9tQ&s=08" target="_blank" rel="noopener noreferrer">
+                <FaXTwitter  width={32} height={32} className="bg-blue-600"/>
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-                <Image src="/001-social.png" alt="Instagram" width={32} height={32} />
-              </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-                <Image src="/004-linkedIn.png" alt="LinkedIn" width={32} height={32} />
+              <a href="https://www.instagram.com/techvantage_ng/" target="_blank" rel="noopener noreferrer">
+                <FaInstagram  width={32} height={32} className="bg-blue-600"/>
               </a>
             </div>
             <Link href="#" className="text-white text-center p-[6px] bg-blue-600 rounded-md">
