@@ -4,6 +4,7 @@ import Head from 'next/head';
 import Navbar from "@/components/Navbar";
 import ScrollToTop from "@/components/ScrollToTop";
 import Footer from "@/components/Footer";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export const metadata: Metadata = {
   title: "Techvantage",
@@ -17,6 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <SpeedInsights/>
       <Head>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link
