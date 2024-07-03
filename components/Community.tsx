@@ -8,14 +8,14 @@ const communityItems = [
     mobileImage: '/c-unicross-mobile.jpg',
     title: 'TechVantage UNICROSS Chapter',
     description: 'Join our UNICROSS community of tech enthusiasts who are pushing the boundaries of innovation.',
-    link: '/join-tech-innovators',
+    link: 'https://chat.whatsapp.com/CxskpI8nhD1Bp68lnvYSVe',
   },
   {
     desktopImage: '/unical.jfif',
     mobileImage: '/unical.jfif',
     title: 'TechVantage UNICAL Chapter',
     description: 'Join our UNICAL community of tech enthusiasts who are pushing the boundaries of innovation.',
-    link: '/join-code-masters',
+    link: 'https://chat.whatsapp.com/KC61IAnjgYN6TZJkNLbIFL',
   },
 ];
 
